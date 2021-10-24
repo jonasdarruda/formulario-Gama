@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+#titulo {
+    background-color: rgb(236, 231, 231);
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+
+   display: flex;
+   justify-content: center;
+}
+
+#rodape {
+
+    display: flex;
+    justify-content: center;
+    font-family: unset;
+    background-color: thistle;
+    
+}
